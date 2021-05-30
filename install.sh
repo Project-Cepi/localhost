@@ -8,4 +8,4 @@ wget https://raw.githubusercontent.com/Project-Cepi/import-map/main/import-map.j
 
 echo "#!/bin/bash
 
-java -Xmx2024M -Xms2024M -jar sabre-0.1.4-all.jar" > run.sh
+java -Xmx2024M -Xms2024M -jar sabre.jar" > run.sh

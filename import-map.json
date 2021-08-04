@@ -49,7 +49,7 @@
             "output": "shop"
         },
         {
-            "url": "https://github.com/Project-Cepi/EnergyExtension/releases/download/latest/EnergyExtension.jar",
+            "url": "https://github.com/Project-Cepi/EnergyExtension/releases/download/latest/EnergyExtension-1.0.0.jar",
             "output": "energy"
         },
         {

@@ -61,7 +61,7 @@
             "output": "economy"
         },
         {
-            "ulr": "https://github.com/Project-Cepi/KStom/releases/download/latest/KStom-1.0.0.jar",
+            "url": "https://github.com/Project-Cepi/KStom/releases/download/latest/KStom-1.0.0.jar",
             "output": "kstom"
         }
     ]

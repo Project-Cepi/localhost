@@ -63,6 +63,10 @@
         {
             "url": "https://github.com/Project-Cepi/KStom/releases/download/latest/KStom-1.0.0.jar",
             "output": "kstom"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/Projectiles/releases/download/latest/Projectiles-1.0.0-all.jar",
+            "output": "projectiles"
         }
     ]
 }

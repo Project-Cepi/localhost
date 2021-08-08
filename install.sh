@@ -9,3 +9,6 @@ wget https://raw.githubusercontent.com/Project-Cepi/import-map/main/import-map.j
 echo "#!/bin/bash
 
 java -Xmx2024M -Xms2024M -jar sabre.jar" > run.sh
+
+# give run.sh executable permissions
+chmod +x ./run.sh

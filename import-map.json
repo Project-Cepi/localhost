@@ -67,6 +67,10 @@
         {
             "url": "https://github.com/Project-Cepi/Projectiles/releases/download/latest/Projectiles-1.0.0-all.jar",
             "output": "projectiles"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/NPCEditor/releases/download/latest/NPCEditor-1.0.0-all.jar",
+            "output": "npc"
         }
     ]
 }

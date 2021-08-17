@@ -10,6 +10,6 @@ curl -fsSL https://raw.githubusercontent.com/Project-Cepi/import-map/main/instal
 
 Powershell (Windows)
 ```powershell
-(iwr "https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.ps1").Content | cmd /q
+iwr "https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.ps1" | iex
 ```
 

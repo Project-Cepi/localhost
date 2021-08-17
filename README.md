@@ -8,7 +8,8 @@ Shell (Mac, Linux)
 curl -fsSL https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.sh | sh
 ```
 
-Cmd (Windows)
-```bat
-powershell -c "(Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.bat').Content | cmd /q"
+Powershell (Windows)
+```powershell
+(iwr "https://raw.githubusercontent.com/Project-Cepi/import-map/main/install.ps1").Content | cmd /q
 ```
+

@@ -4,7 +4,7 @@
 wget https://github.com/Project-Cepi/Sabre/releases/download/latest/sabre-1.0.0-all.jar -O sabre.jar
 
 # download import map
-wget https://raw.githubusercontent.com/Project-Cepi/import-map/main/import-map.json -O import-map.json
+wget https://raw.githubusercontent.com/Project-Cepi/localhost/main/import-map.json -O import-map.json
 
 echo "#!/bin/bash
 

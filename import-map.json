@@ -41,8 +41,8 @@
             "output": "momentum"
         },
         {
-            "url": "https://github.com/Project-Cepi/LuaecEditor/releases/download/latest/LuaeEngine-1.0.0-all.jar",
-            "output": "luaec"
+            "url": "https://github.com/Project-Cepi/Scriptable/releases/download/latest/LuaeEngine-1.0.0-all.jar",
+            "output": "scriptable"
         },
         {
             "url": "https://github.com/Project-Cepi/ShopExtension/releases/download/latest/shop-all.jar",
@@ -79,6 +79,10 @@
         {
             "url": "https://github.com/Project-Cepi/Packeteer/releases/download/latest/Packeteer-1.0.0-all.jar",
             "output": "packeteer"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/Mounts/releases/download/latest/Mounts-1.0.0-all.jar",
+            "output": "mounts"
         }
     ]
 }

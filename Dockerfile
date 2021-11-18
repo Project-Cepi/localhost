@@ -1,12 +1,9 @@
-FROM ubuntu:16.04
-FROM openjdk:11
+# Minestom uses jdk 17 + its the latest LTS version
+FROM openjdk:17
 
-COPY install.sh install.sh
-RUN ["bash", "./install.sh"]
-RUN \
-	sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
-	apt-get update && \
-	apt-get -y upgrade && \
-	apt-get install -y wget
+ADD https://github.com/Project-Cepi/Sabre/releases/download/latest/sabre-1.0.0-all.jar sabre.jar
+ADD https://raw.githubusercontent.com/Project-Cepi/localhost/main/import-map.json import-map.json
+
+# Minecraft port
 EXPOSE 25565
-CMD ["bash", "./run.sh"]
+ENTRYPOINT exec java -jar sabre.jar

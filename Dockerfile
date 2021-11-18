@@ -6,4 +6,4 @@ ADD https://raw.githubusercontent.com/Project-Cepi/localhost/main/import-map.jso
 
 # Minecraft port
 EXPOSE 25565
-ENTRYPOINT exec java -jar sabre.jar
+ENTRYPOINT ["java", "-jar", "sabre.jar"]

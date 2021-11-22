@@ -1,1 +1,1 @@
-docker run cepi
+docker run -v "$(pwd)"/server:/server cepi

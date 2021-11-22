@@ -6,5 +6,7 @@ Download Cepi, without content or builds.
 
 ```bash
 docker build github.com/Project-Cepi/localhost#main -t cepi
-docker run cepi
+docker run -v "$(pwd)"/server:/server cepi
 ```
+
+If you prefer not to use docker, simply download Sabre + the import map and run sabre as a jar.

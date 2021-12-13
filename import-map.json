@@ -1,88 +1,76 @@
 {
     "imports": [
         {
-            "url": "https://github.com/Project-Cepi/Carbon/releases/download/latest/CarbonExtension-1.0.0-all.jar",
-            "output": "carbon"
+            "url": "https://github.com/Project-Cepi/Carbon/releases/download/latest/CarbonExtension-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Atlas/releases/download/latest/atlas-all.jar",
-            "output": "atlas"
+            "url": "https://github.com/Project-Cepi/Atlas/releases/download/latest/atlas-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/ItemExtension/releases/download/latest/ItemExtension-1.0.0-all.jar",
-            "output": "item"
+            "url": "https://github.com/Project-Cepi/ItemExtension/releases/download/latest/ItemExtension-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/MobExtension/releases/download/latest/mob-1.0.0-all.jar",
-            "output": "mob"
+            "url": "https://github.com/Project-Cepi/MobExtension/releases/download/latest/mob-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Eris/releases/download/latest/eris-0.0.1-SNAPSHOT-all.jar",
-            "output": "eris"
+            "url": "https://github.com/Project-Cepi/Eris/releases/download/latest/eris-0.0.1-SNAPSHOT-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Kepi/releases/download/latest/kepi-1.0.0-all.jar",
-            "output": "kepi"
+            "url": "https://github.com/Project-Cepi/Kepi/releases/download/latest/kepi-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/LevelExtension/releases/download/latest/LevelExtension-0.1.0-all.jar",
-            "output": "level"
+            "url": "https://github.com/Project-Cepi/LevelExtension/releases/download/latest/LevelExtension-0.1.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/LootboxExtension/releases/download/latest/crates-extension-all.jar",
-            "output": "crates"
+            "url": "https://github.com/Project-Cepi/LootboxExtension/releases/download/latest/lootcrate-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/RocketTools/releases/download/latest/RocketTools.jar",
-            "output": "rocket"
+            "url": "https://github.com/Project-Cepi/RocketTools/releases/download/latest/RocketTools.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Momentum/releases/download/latest/Momentum-0.1.0-all.jar",
-            "output": "momentum"
+            "url": "https://github.com/Project-Cepi/Momentum/releases/download/latest/Momentum-0.1.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Scriptable/releases/download/latest/LuaeEngine-1.0.0-all.jar",
-            "output": "scriptable"
+            "url": "https://github.com/Project-Cepi/Scriptable/releases/download/latest/Scriptable-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/ShopExtension/releases/download/latest/shop-all.jar",
-            "output": "shop"
+            "url": "https://github.com/Project-Cepi/ShopExtension/releases/download/latest/shop-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/EnergyExtension/releases/download/latest/EnergyExtension-1.0.0.jar",
-            "output": "energy"
+            "url": "https://github.com/Project-Cepi/EnergyExtension/releases/download/latest/EnergyExtension-1.0.0.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/RegionsExtension/releases/download/latest/region-all.jar",
-            "output": "region"
+            "url": "https://github.com/Project-Cepi/RegionsExtension/releases/download/latest/region-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/EconomyExtension/releases/download/latest/economy-1.0.0-all.jar",
-            "output": "economy"
+            "url": "https://github.com/Project-Cepi/EconomyExtension/releases/download/latest/economy-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/KStom/releases/download/latest/KStom-1.0.0.jar",
-            "output": "kstom"
+            "url": "https://github.com/Project-Cepi/KStom/releases/download/latest/KStom-1.0.0.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Projectiles/releases/download/latest/Projectiles-1.0.0-all.jar",
-            "output": "projectiles"
+            "url": "https://github.com/Project-Cepi/Projectiles/releases/download/latest/Projectiles-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/NPCEditor/releases/download/latest/NPCEditor-1.0.0-all.jar",
-            "output": "npc"
+            "url": "https://github.com/Project-Cepi/NPCEditor/releases/download/latest/NPCEditor-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Crews/releases/download/latest/Crews-1.0.0-all.jar",
-            "output": "crews"
+            "url": "https://github.com/Project-Cepi/Crews/releases/download/latest/Crews-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Packeteer/releases/download/latest/Packeteer-1.0.0-all.jar",
-            "output": "packeteer"
+            "url": "https://github.com/Project-Cepi/Packeteer/releases/download/latest/Packeteer-1.0.0-all.jar"
         },
         {
-            "url": "https://github.com/Project-Cepi/Mounts/releases/download/latest/Mounts-1.0.0-all.jar",
-            "output": "mounts"
+            "url": "https://github.com/Project-Cepi/Mounts/releases/download/latest/Mounts-1.0.0-all.jar"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/KStom/releases/download/latest/kstom-1.0.0-all.jar"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/Particable/releases/download/latest/particable-1.0.0-all.jar"
+        },
+        {
+            "url": "https://github.com/Project-Cepi/Actions/releases/download/latest/Actions-1.0.0-all.jar"
         }
     ]
 }

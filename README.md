@@ -19,3 +19,11 @@ curl -fsSL https://raw.githubusercontent.com/Project-Cepi/localhost/main/install
 With `powershell`
 ```powershell
 iwr "https://raw.githubusercontent.com/Project-Cepi/localhost/main/install.ps1" | iex
+
+## Cloning repositories
+
+This project has a _lot_ of repositores. For shell only, there is a convenient script to download them
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Project-Cepi/localhost/main/dev.sh | sh
+```

@@ -3,7 +3,7 @@
 git clone https://github.com/Project-Cepi/MobExtension.git
 git clone https://github.com/Project-Cepi/Traps.git
 git clone https://github.com/Project-Cepi/ItemExtension.git
-git clone https://github.com/Project-Cepi/Actiosn.git
+git clone https://github.com/Project-Cepi/Actions.git
 git clone https://github.com/Project-Cepi/MinestomPVP.git
 git clone https://github.com/Project-Cepi/Crews.git
 git clone https://github.com/Project-Cepi/KStom.git

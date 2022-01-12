@@ -1,0 +1,31 @@
+#!/bin/sh
+
+git clone https://github.com/Project-Cepi/MobExtension.git
+git clone https://github.com/Project-Cepi/Traps.git
+git clone https://github.com/Project-Cepi/ItemExtension.git
+git clone https://github.com/Project-Cepi/Actiosn.git
+git clone https://github.com/Project-Cepi/MinestomPVP.git
+git clone https://github.com/Project-Cepi/Crews.git
+git clone https://github.com/Project-Cepi/KStom.git
+git clone https://github.com/Project-Cepi/Kepi.git
+git clone https://github.com/Project-Cepi/Sabre.git
+git clone https://github.com/Project-Cepi/Scriptable.git
+git clone https://github.com/Project-Cepi/Subfuzzy.git
+git clone https://github.com/Project-Cepi/RocketTools.git
+git clone https://github.com/Project-Cepi/ShopExtension.git
+git clone https://github.com/Project-Cepi/Particable.git
+git clone https://github.com/Project-Cepi/RegionsExtension.git
+git clone https://github.com/Project-Cepi/Orchestra.git
+git clone https://github.com/Project-Cepi/NPCEditor.git
+git clone https://github.com/Project-Cepi/Momentum.git
+git clone https://github.com/Project-Cepi/Mounts.git
+git clone https://github.com/Project-Cepi/MobExtension.git
+git clone https://github.com/Project-Cepi/LevelExtension.git
+git clone https://github.com/Project-Cepi/Gooey.git
+git clone https://github.com/Project-Cepi/Carbon.git
+git clone https://github.com/Project-Cepi/Eris.git
+git clone https://github.com/Project-Cepi/EnergyExtension.git
+git clone https://github.com/Project-Cepi/EconomyExtension.git
+git clone https://github.com/Project-Cepi/Carbon.git
+git clone https://github.com/Project-Cepi/canvas.git
+git clone https://github.com/Project-Cepi/Projectiles.git

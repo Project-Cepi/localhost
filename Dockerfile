@@ -1,5 +1,5 @@
 # Minestom uses jdk 17 + its the latest LTS version
-FROM openjdk:19
+FROM openjdk:20
 LABEL author="Cepi"
 WORKDIR /server
 
